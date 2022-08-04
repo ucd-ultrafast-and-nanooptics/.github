@@ -9,4 +9,4 @@ This is where the UCD Plasmonics and Ultrafast NanoOptics Research Group keeps i
 * Giulia Di Fazio
 * Conor Foy
 * Conor O'Donnell
-* [Samuel Kenny](samuel.kenny1@ucdconnect.ie)
+* [Samuel Kenny](mailto:samuel.kenny1@ucdconnect.ie)
