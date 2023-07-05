@@ -7,6 +7,6 @@ This is where the [UCD Plasmonics and Ultrafast NanoOptics Research Group](https
 * [Silas O'Toole](mailto:silas.o-toole@ucdconnect.ie)
 * Ciarán Barron
 * Giulia Di Fazio
-* Conor Foy
+* [Conor Foy](mailto:conor.foy.1@ucdconnect.ie)
 * Conor O'Donnell
 * [Samuel Kenny](mailto:samuel.kenny1@ucdconnect.ie)
